@@ -116,6 +116,7 @@
             "stock": 151,
             "rating": 1.6
         },
+        
         {
             "id": "prod-f13b771b-015",
             "name": "Premium Item 15",
@@ -147,6 +148,22 @@
             "price": 313.49,
             "stock": 199,
             "rating": 2.4
+        },
+         {
+            "id": "prod-f13b771b-019",
+            "name": "Premium Item 19",
+            "category": "sports",
+            "price": 121.22,
+            "stock": 151,
+            "rating": 1.6
+        },
+        {
+            "id": "prod-f13b771b-020",
+            "name": "Standard Item 20",
+            "category": "home",
+            "price": 143.57,
+            "stock": 142,
+            "rating": 2.2
         }
     ],
     "aggregations": {
